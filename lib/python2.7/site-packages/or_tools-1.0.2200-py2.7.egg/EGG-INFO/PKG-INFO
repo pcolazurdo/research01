@@ -1,0 +1,11 @@
+Metadata-Version: 1.0
+Name: or-tools
+Version: 1.0.2200
+Summary: Google OR-Tools Python Module
+Home-page: http://code.google.com/p/or-tools/
+Author: Google Inc
+Author-email: lperron@google.com
+License: Apache 2.0
+Description: UNKNOWN
+Keywords: operations research,constraint programming,linear programmingflow algorithmspython
+Platform: UNKNOWN
